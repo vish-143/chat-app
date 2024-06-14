@@ -1,0 +1,59 @@
+*,
+*:before,
+*:after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #080710;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.css-8z7w4n {
+  background-color: black !important;
+}
+
+.css-1x51dt5-MuiInputBase-input-MuiInput-input {
+  background: white !important;
+}
+
+.css-10hburv-MuiTypography-root {
+  color: white !important
+}
+
+.css-i4bv87-MuiSvgIcon-root {
+  color: white !important
+}
+
+.css-13hr5gi-MuiButtonBase-root-MuiButton-root {
+  min-width: 120px !important
+}
+
+.css-13hr5gi-MuiButtonBase-root-MuiButton-root:hover {
+  background-color: #f09819 !important;
+}
+
+.css-89gxc5-MuiGrid-root {
+  justify-content: space-evenly !important;
+  gap: 42% !important;
+}
+
+.css-dlwkee-MuiBadge-badge {
+  background-color: #23a2f6 !important;
+  color: white !important
+}
+
+.css-2xdc9l-MuiBadge-badge {
+  border-radius: 13px !important;
+  height: 13px !important;
+  min-width: 13px !important;
+}
